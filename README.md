@@ -30,12 +30,12 @@ The project is implemented as a **Jupyter Notebook** using a convolutional neura
 ## 📁 Project Structure
 Vehicle-Classification/
 │
-├── projet.ipynb # Main Jupyter Notebook with full implementation
-├── data/ # Folder containing vehicle images
-│ └── (image files)
-├── 1.jpg - 12.jpg # Sample test images
-├── .gitattributes # Git configuration file
-└── README.md # Project documentation
+├── projet.ipynb # Main Jupyter Notebook with full implementation-
+├── data/ # Folder containing vehicle images-
+│ └── (image files)-
+├── 1.jpg - 12.jpg # Sample test images-
+├── .gitattributes # Git configuration file-
+└── README.md # Project documentation-
 
 
 
